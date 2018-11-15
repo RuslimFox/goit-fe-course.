@@ -58,8 +58,8 @@ button {
 	border: 1px solid;
 	font-size: 20px;
 	line-height: 60px;
+	margin-left: 360px;
 }
-div {
-	padding-top: 50px;
-	padding-left: 360px;
+li {
+	display: inline-block;
 }
